@@ -16,7 +16,7 @@ I'm a 3rd year Computer-Science major in Revelle College. Some things that I enj
 - playing video-games
 - hanging out with my friends
 - chilling with my dog Yogi
-![YOGI](./yogi_smiley.jpg)
+![YOGI](./yogi_smiley.JPG)
 
 <br/>
 
