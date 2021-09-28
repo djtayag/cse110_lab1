@@ -1,6 +1,6 @@
 # **Hello! I'm Darryl and this is all about me...**
 
-<p style = "text-align:center;"><img src = "./utah_2019.jpg" width="350">
+<!-- <p style = "text-align:center;"><img src = "./utah_2019.jpg" width="350"> -->
 
 <br/>
 
@@ -16,7 +16,7 @@ I'm a 3rd year Computer-Science major in Revelle College. Some things that I enj
 - playing video-games
 - hanging out with my friends
 - chilling with my dog Yogi
-<p style = "text-align:center;"><img src = "./yogi_smiley.JPG" width="300">
+<!-- <p style = "text-align:center;"><img src = "./yogi_smiley.JPG" width="300"> -->
 
 <br/>
 
@@ -43,7 +43,7 @@ Some more things that I enjoy:
 - eating and sleeping
 - ~~waiting till the very last minute to start on important assignments such as this lab~~ being a good student, turning things in on time, and maintaining an exceptional work ethic :D
 
-<p style = "text-align:center;"><img src = "https://i2.wp.com/rollercoasteryears.com/wp-content/uploads/Thrive-During-Finals-.jpg?fit=1000%2C667&ssl=1" width="300"/>
+<!-- <p style = "text-align:center;"><img src = "https://i2.wp.com/rollercoasteryears.com/wp-content/uploads/Thrive-During-Finals-.jpg?fit=1000%2C667&ssl=1" width="300"/> -->
 
 <br/>
 
@@ -64,5 +64,5 @@ Some goals that I have for this Fall '21 quarter are:
 
 ## **As A Programmer**
 My first year of college was the first time that I was exposed to anything programming related. The first class that I took at UCSD was CSE 8A where I learned an introduction to Python and Java. My favorite programming language as of now is Java because that's the langauge that I have spent the most time on. I always loved playing video games and glued my eyes to computers growing up. I became interested in how games were developed which led me to selecting Computer Science as my major! I hope to attain the skills to develop my own game while attending this university and maybe delve a little bit into front-end development as well.
-<p style = "text-align:center;"><img src = "https://thumbs.dreamstime.com/z/happy-smiling-hacker-man-using-mobile-smartphone-men-doing-telecommunications-fraud-successfully-blackmail-many-money-feeling-102188396.jpg" width="350">
+<!-- <p style = "text-align:center;"><img src = "https://thumbs.dreamstime.com/z/happy-smiling-hacker-man-using-mobile-smartphone-men-doing-telecommunications-fraud-successfully-blackmail-many-money-feeling-102188396.jpg" width="350"> -->
 
