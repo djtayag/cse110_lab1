@@ -2,6 +2,8 @@
 
 <p style = "text-align:center;"><img src = "./utah_2019.jpg" width="350">
 
+<br/>
+
 [As A Person](#as-a-person)
 
 [As A Programmer](#as-a-programmer)
@@ -15,6 +17,8 @@ I'm a 3rd year Computer-Science major in Revelle College. Some things that I enj
 - hanging out with my friends
 - chilling with my dog Yogi
 <p style = "text-align:center;"><img src = "./yogi_smiley.JPG" width="300">
+
+<br/>
 
 If Yogi was a class in Java, it would look something like this:
 ```java
@@ -40,6 +44,8 @@ Some more things that I enjoy:
 - ~~waiting till the very last minute to start on important assignments such as this lab~~ being a good student, turning things in on time, and maintaining an exceptional work ethic :D
 
 <p style = "text-align:center;"><img src = "https://i2.wp.com/rollercoasteryears.com/wp-content/uploads/Thrive-During-Finals-.jpg?fit=1000%2C667&ssl=1" width="300"/>
+
+<br/>
 
 Some videogames that I enjoy playing are League of Legends (especially TFT), Minecraft, and Valorant. A fun fact about me: I reached Masters in TFT for 3 consecutive sets:
 - [x] Set 4.5
