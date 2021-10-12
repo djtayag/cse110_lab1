@@ -14,6 +14,16 @@
 
 I'm a 3rd year Computer-Science major in Revelle College. Some things that I enjoy doing are:
 - playing video-games
+- listening to music (been listening to Kanye's DONDA and Olivia Rodrigo's SOUR recently)
+- playing/watching basketball -- the Lakers are my team, but Luka Doncic is my favorite player\
+![Luka](https://www.si.com/.image/t_share/MTY4MTc1OTAxNDIxMzQ4MjI0/luka-doncic-taking-nba-by-storm.jpg)
+
+<br/>
+
+![Lakers](https://cdn.vox-cdn.com/thumbor/TAVJkBWxyQStoq-s33dXMMhek3M=/0x0:4515x3010/1200x800/filters:focal(1851x312:2573x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/69934939/1235611495.0.jpg)
+
+<br/>
+
 - hanging out with my friends
 - chilling with my dog Yogi
 ![YOGI](./yogi_smiley.JPG)
@@ -24,10 +34,10 @@ If Yogi was a class in Java, it would look something like this:
 ```java
 public class Yogi {
     // Private variables
-    private cute;
-    private smart;
-    private small;
-    private lazy_and_spoiled;
+    private boolean cute;
+    private boolean smart;
+    private boolean small;
+    private boolean lazy_and_spoiled;
 
     // Constructor
     public Yogi(){
